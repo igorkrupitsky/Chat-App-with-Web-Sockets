@@ -1,0 +1,12 @@
+C:\Users\80014379\source\repos\WebSocketsExample\bin\Debug\WebSocketsExample.exe.config
+C:\Users\80014379\source\repos\WebSocketsExample\bin\Debug\WebSocketsExample.exe
+C:\Users\80014379\source\repos\WebSocketsExample\bin\Debug\WebSocketsExample.pdb
+C:\Users\80014379\source\repos\WebSocketsExample\bin\Debug\WebSocketsExample.xml
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.Form1.resources
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.Resources.resources
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.vbproj.GenerateResource.cache
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.vbproj.CoreCompileInputs.cache
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.exe
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.xml
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.pdb
+C:\Users\80014379\source\repos\WebSocketsExample\obj\Debug\WebSocketsExample.vbprojAssemblyReference.cache

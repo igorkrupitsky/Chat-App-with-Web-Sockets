@@ -1,0 +1,10 @@
+C:\Users\80014379\source\repos\WebSocket\bin\WebSocket.dll.config
+C:\Users\80014379\source\repos\WebSocket\bin\WebSocket.dll
+C:\Users\80014379\source\repos\WebSocket\bin\WebSocket.pdb
+C:\Users\80014379\source\repos\WebSocket\bin\WebForms_Basic.xml
+C:\Users\80014379\source\repos\WebSocket\obj\Debug\WebSocket.Resources.resources
+C:\Users\80014379\source\repos\WebSocket\obj\Debug\WebSocket.vbproj.GenerateResource.cache
+C:\Users\80014379\source\repos\WebSocket\obj\Debug\WebSocket.vbproj.CoreCompileInputs.cache
+C:\Users\80014379\source\repos\WebSocket\obj\Debug\WebSocket.dll
+C:\Users\80014379\source\repos\WebSocket\obj\Debug\WebForms_Basic.xml
+C:\Users\80014379\source\repos\WebSocket\obj\Debug\WebSocket.pdb

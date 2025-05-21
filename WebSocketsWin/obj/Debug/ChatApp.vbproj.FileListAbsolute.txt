@@ -1,0 +1,12 @@
+C:\Users\80014379\source\repos\WebSocketsWin\bin\Debug\ChatApp.exe.config
+C:\Users\80014379\source\repos\WebSocketsWin\bin\Debug\ChatApp.exe
+C:\Users\80014379\source\repos\WebSocketsWin\bin\Debug\ChatApp.pdb
+C:\Users\80014379\source\repos\WebSocketsWin\bin\Debug\ChatApp.xml
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.Form1.resources
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.Resources.resources
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.vbproj.GenerateResource.cache
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.vbproj.CoreCompileInputs.cache
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.exe
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.xml
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.pdb
+C:\Users\80014379\source\repos\WebSocketsWin\obj\Debug\ChatApp.vbprojAssemblyReference.cache
